@@ -1,0 +1,21 @@
+{
+  "appointments": [
+    {
+      "name": "sham",
+      "topic": "body checkup and x-ray",
+      "details": "body checkup and x-ray",
+      "date": "2026-08-19",
+      "time": "18:05",
+      "id": "_pfct8JC6nU"
+    },
+    {
+      "name": "siya",
+      "topic": "x-ray",
+      "details": "x-ray",
+      "date": "2026-08-06",
+      "time": "12:05",
+      "id": "bi-6Rh23EHE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
